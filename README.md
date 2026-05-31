@@ -10,6 +10,7 @@ Due to page constraint and text density limits in standard A4 PDF formats, these
 | :--- | :--- | :--- |
 | **Chapter 5, Sec 5.1** | Figure 12: Overview Transpiler Pipeline Diagram | [View Vector SVG](./chapter-5-design-and-development/fig-12-transpiler-pipeline-diagram.svg) |
 | **Chapter 5, Sec 5.2** | Figure 13: C4 Component diagram of the Proteus transpiler | [View Vector SVG](./chapter-5-design-and-development/fig-13-c4-component-diagram.svg) |
+| **Chapter 5, Sec 5.5** | Figure 14: ASTBuilder class diagram (Source AST construction) | [View Vector SVG](./chapter-5-design-and-development/fig-14-ast-builder-class-diagram.svg) |
 
 ## How to View
 For optimal legibility, click the links above and use your browser's zoom functionality. Vector files (`.pdf` and `.svg`) can be magnified infinitely without loss of structural sharpness.
