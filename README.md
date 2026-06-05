@@ -1,5 +1,3 @@
-# Proteus Transpiler - Thesis Artifacts
-
 This repository contains the high-resolution, scalable vector graphics (PDF/SVG) for the bachelor's thesis: **"Proteus: A Model-Driven Transpiler from Delphi Forms to React with TypeScript"**. 
 
 Due to page constraint and text density limits in standard A4 PDF formats, these files are provided to ensure complete legibility during review.
