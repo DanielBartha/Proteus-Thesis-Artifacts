@@ -7,9 +7,9 @@ Due to page constraint and text density limits in standard A4 PDF formats, these
 Additional artifacts such as coverage reports, are also included in this repository.
 
 ## Miscellaneous Artifacts
-| Description | Source |
-| :--- | :--- |
-| JaCoCo Coverage Report| [View Report](https://danielbartha.github.io/Proteus-Thesis-Atrifacts/coverage/index.html) |
+| Artifact | Description | Source |
+| :--- | :--- | :--- |
+| Proteus Code Coverage | JaCoCo Coverage Report| [View Report](https://danielbartha.github.io/Proteus-Thesis-Atrifacts/coverage/index.html) |
 
 ## Quick Reference Map - High-Resolution Figures
 
